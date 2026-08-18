@@ -1,289 +1,440 @@
-# ¡Hola, soy Chris! 👋
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 💻 Estudiante de Desarrollo de Software | Creador de proyectos | Apasionado por la tecnología
+<!--                    HEADER / PRESENTACIÓN                    -->
 
-> **"Aprendiendo, creando y mejorando cada día a través del código."**
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-Soy estudiante de **3.er año de Bachillerato Técnico Vocacional en Desarrollo de Software** en el **Instituto Nacional de Apopa (INA)**. Me apasiona la tecnología, la programación y la creación de proyectos que permitan convertir ideas en soluciones funcionales.
+<div align="center">
 
-Actualmente estoy fortaleciendo mis conocimientos en **desarrollo web, programación, bases de datos y herramientas de desarrollo**, mientras continúo adquiriendo experiencia mediante proyectos académicos y personales.
+# 🖤 ¡Hola, soy Chris!
 
-Mi objetivo es seguir creciendo como desarrollador, aprender nuevas tecnologías y participar en proyectos donde pueda aplicar mis conocimientos, resolver problemas y aportar soluciones innovadoras.
+### 💻 Software Developer in Progress
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Desarrollo+de+Software;Apasionado+por+la+tecnología;Construyendo+ideas+a+través+del+código;Aprendiendo+algo+nuevo+cada+día" />
 
-## 🚀 Sobre mí
+<br>
 
-🎓 **Formación:**
-Estudiante de 3.er año de Bachillerato Técnico Vocacional en Desarrollo de Software — **Instituto Nacional de Apopa (INA)**.
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS%20AL%20PERFIL&color=00d9ff&style=for-the-badge" />
 
-💻 **Área de interés:**
-Desarrollo de software, desarrollo web, bases de datos, lógica de programación y creación de aplicaciones.
-
-🧠 **Forma de aprender:**
-Me gusta aprender mediante la práctica, desarrollando proyectos y enfrentándome a problemas que me permitan mejorar mis habilidades.
-
-🎯 **Objetivo profesional:**
-Adquirir experiencia en el área de desarrollo de software, mejorar continuamente mis conocimientos y participar en proyectos tecnológicos que generen soluciones útiles.
-
-⚡ **Actitud:**
-Responsable, analítico, creativo, enfocado en resultados y con disposición para aprender nuevas tecnologías.
+</div>
 
 ---
 
-## 🛠️ Tecnologías y habilidades
+<div align="center">
 
-### 💻 Lenguajes de programación
+### ⚡ `CODE` • `CREATE` • `LEARN` • `IMPROVE`
 
-| Tecnología        | Nivel / Enfoque                       |
-| :---------------- | :------------------------------------ |
-| 🔵 **HTML5**      | Desarrollo de páginas web             |
-| 🔷 **CSS3**       | Diseño y estilos web                  |
-| 🟡 **JavaScript** | Interactividad y lógica web           |
-| 🐍 **Python**     | Programación y lógica                 |
-| ☕ **Java**        | Programación orientada a objetos      |
-| 🟣 **C#**         | Desarrollo y lógica de programación   |
-| 🟢 **PHP**        | Desarrollo web y conexión con BD      |
-| 🗄️ **SQL**       | Consultas y gestión de bases de datos |
+</div>
+
+---
+
+# 🧑‍💻 Sobre mí
+
+> **No estoy aquí solamente para aprender a programar. Estoy aquí para construir algo que algún día pueda mirar atrás y decir: "todo el esfuerzo valió la pena".**
+
+Soy **Chris**, estudiante de **3.er año de Bachillerato Técnico Vocacional en Desarrollo de Software** en el **Instituto Nacional de Apopa (INA)**.
+
+Me apasiona la tecnología, la programación y la creación de proyectos. Actualmente estoy construyendo mis conocimientos en diferentes áreas del desarrollo de software, aprendiendo no solamente a escribir código, sino también a **pensar, analizar problemas y convertir ideas en soluciones**.
+
+Cada proyecto que aparece en este perfil representa una parte de mi aprendizaje. Algunos comenzaron con errores, otros con dudas y muchos con horas de trabajo, pero todos tienen algo en común:
+
+### 🚀 **Me ayudaron a crecer.**
+
+---
+
+# 🖤 Mi historia
+
+Comencé aprendiendo los fundamentos de la programación y poco a poco fui descubriendo todo lo que se puede construir utilizando tecnología.
+
+He trabajado con páginas web, bases de datos, aplicaciones, proyectos académicos, videojuegos y diferentes herramientas de desarrollo.
+
+Todavía estoy aprendiendo.
+
+Todavía cometo errores.
+
+Todavía hay tecnologías que no conozco.
+
+**Y precisamente por eso sigo avanzando.**
+
+Porque para mí, ser desarrollador no significa saberlo todo.
+
+Significa tener la capacidad de decir:
+
+> **"No sé cómo hacerlo todavía, pero voy a aprender."**
+
+---
+
+# 🧠 ¿Qué me apasiona?
+
+<div align="center">
+
+|  💻 Programación |   🌐 Desarrollo Web  |   🗄️ Bases de Datos  |
+| :--------------: | :------------------: | :-------------------: |
+| Crear soluciones | Diseñar experiencias | Organizar información |
+
+|   🎮 Videojuegos   | 🎥 Tecnología Audiovisual |         🚀 Proyectos        |
+| :----------------: | :-----------------------: | :-------------------------: |
+| Crear experiencias |    Combinar creatividad   | Convertir ideas en realidad |
+
+</div>
+
+---
+
+# 🛠️ Tecnologías que estoy aprendiendo
+
+<div align="center">
+
+### 💻 Lenguajes
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,php&theme=dark" />
+
+<br><br>
 
 ### 🗃️ Bases de datos
 
-* **MySQL**
-* **PostgreSQL**
-* Diseño básico de bases de datos relacionales
-* Creación de tablas
-* Relaciones entre tablas
-* Consultas SQL
-* Inserción y modificación de registros
-* Consultas con `SELECT`, `JOIN`, `WHERE`, `ORDER BY`, entre otras
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+
+<br><br>
 
 ### 🔧 Herramientas
 
-* **Git**
-* **GitHub**
-* **Visual Studio Code**
-* **XAMPP**
-* **phpMyAdmin**
-* **Packet Tracer**
-* **StarUML**
-* **Inkscape**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+
+<br><br>
+
+### 🎨 Diseño y creatividad
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
+
+</div>
 
 ---
 
-## 🌐 Desarrollo Web
+# 📚 Mis conocimientos
 
-Me interesa especialmente la creación de sitios web modernos, funcionales y visualmente atractivos.
-
-Entre los aspectos que estoy desarrollando se encuentran:
-
-* Diseño de interfaces web.
-* Estructuración mediante HTML5.
-* Diseño responsive con CSS3.
-* Interactividad mediante JavaScript.
-* Formularios.
-* Sistemas de inicio de sesión.
-* Conexión entre páginas y bases de datos.
-* Sistemas CRUD.
-* Organización de proyectos.
-* Interfaces intuitivas y fáciles de utilizar.
-
----
-
-## 🗄️ Bases de Datos
-
-También tengo interés en el diseño y desarrollo de sistemas que utilicen bases de datos para almacenar y administrar información.
-
-He trabajado con conceptos como:
+### 🌐 Desarrollo Web
 
 ```text
-Usuarios
-Productos
-Categorías
-Proveedores
-Clientes
-Empleados
-Ventas
-Compras
-Detalles de ventas
-Inventarios
+HTML5       ███████████████████░░   85%
+CSS3        █████████████████░░░░   80%
+JavaScript  ███████████████░░░░░░   70%
+PHP         █████████████░░░░░░░░   65%
 ```
 
-Mi objetivo es seguir mejorando en el diseño de bases de datos, especialmente en la creación de estructuras eficientes y relaciones correctamente definidas.
-
----
-
-## 📂 Proyectos
-
-Durante mi formación he trabajado en diferentes tipos de proyectos relacionados con programación y desarrollo de software.
-
-### 🌌 Explorando el Sistema Solar
-
-Proyecto web educativo desarrollado con **HTML, CSS y JavaScript**, enfocado en presentar información sobre los planetas y agregar elementos interactivos como cuestionarios.
-
-**Características:**
-
-* Información de los planetas.
-* Diseño visual.
-* Tabla informativa.
-* Quiz interactivo.
-* Preguntas y respuestas.
-* Interfaz sencilla y educativa.
-
----
-
-### 🛒 Sistemas de gestión
-
-Desarrollo de sistemas orientados a administrar información de negocios.
-
-Algunos módulos trabajados:
+### 🐍 Programación
 
 ```text
-📦 Inventario
-👤 Clientes
-👨‍💼 Empleados
-🏷️ Categorías
-🚚 Proveedores
-🛍️ Productos
-💰 Ventas
-🧾 Detalle de ventas
-📥 Compras
+Python      ███████████████░░░░░░   70%
+Java        ██████████████░░░░░░░   65%
+C#          ████████████░░░░░░░░░   60%
 ```
 
-Estos proyectos me han permitido practicar **PHP, MySQL, SQL, HTML y CSS**, además de comprender mejor cómo funcionan los sistemas administrativos.
-
----
-
-### 🎮 Proyectos en Java
-
-También he trabajado en proyectos relacionados con videojuegos utilizando **Java**, aplicando conceptos de programación orientada a objetos, lógica, eventos y movimiento.
-
-Entre los proyectos realizados se encuentran ideas como:
-
-* Juegos de vehículos.
-* Rompe ladrillos.
-* Juegos de obstáculos.
-* Sistemas de movimiento.
-* Colisiones.
-* Niveles.
-* Animaciones.
-
----
-
-## 🧠 Lo que estoy aprendiendo
-
-Actualmente estoy enfocado en mejorar mis conocimientos en:
+### 🗄️ Bases de datos
 
 ```text
-▸ Programación orientada a objetos
-▸ Desarrollo Web
-▸ Bases de datos
-▸ SQL
-▸ JavaScript
-▸ PHP
-▸ Python
-▸ Java
-▸ Git y GitHub
-▸ Arquitectura de software
-▸ Diseño de interfaces
-▸ Buenas prácticas de programación
+MySQL       ████████████████░░░░░   75%
+SQL         ████████████████░░░░░   75%
+PostgreSQL  ████████████░░░░░░░░░   60%
 ```
 
----
-
-## 📈 Mi objetivo como desarrollador
-
-Quiero construir una base sólida como desarrollador de software y continuar avanzando hacia proyectos cada vez más completos.
-
-Mis principales objetivos son:
-
-* 🚀 Mejorar mis habilidades de programación.
-* 🧩 Aprender a resolver problemas de forma eficiente.
-* 🗃️ Perfeccionar mis conocimientos de bases de datos.
-* 🌐 Crear aplicaciones web modernas.
-* 🔐 Aprender mejores prácticas de seguridad.
-* 📱 Explorar nuevas áreas del desarrollo.
-* 🤝 Trabajar en equipo y proyectos colaborativos.
-* 📚 Mantener un aprendizaje constante.
-* 💼 Obtener experiencia profesional en tecnología.
+> *Estas barras representan mi nivel de práctica y aprendizaje actual, no certificaciones profesionales.*
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 🚀 Proyectos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+## 🌌 Explorando el Sistema Solar
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+Proyecto educativo desarrollado utilizando tecnologías web.
+
+### Características
+
+* 🌎 Información sobre los planetas.
+* 🪐 Tabla informativa.
+* 🧠 Quiz interactivo.
+* 💻 Diseño web.
+* 🎨 Interfaz visual.
+* ⚡ JavaScript para interacción.
+
+**Tecnologías:**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 ---
 
-## 🏆 Actividad y aprendizaje
+## 🛒 Sistemas de Gestión
 
-Cada proyecto representa una oportunidad para aprender algo nuevo.
+He desarrollado diferentes estructuras para sistemas administrativos y comerciales.
+
+### Módulos trabajados
 
 ```text
-Aprender → Practicar → Crear → Equivocarse → Mejorar → Volver a crear
+┌───────────────────────────────┐
+│       SISTEMA DE GESTIÓN      │
+├───────────────────────────────┤
+│ 👤 Usuarios                   │
+│ 📦 Productos                  │
+│ 🏷️ Categorías                 │
+│ 🚚 Proveedores                │
+│ 👨‍💼 Empleados                 │
+│ 🛍️ Clientes                   │
+│ 💰 Ventas                     │
+│ 🧾 Detalle de ventas          │
+│ 📥 Compras                    │
+│ 📊 Inventario                 │
+└───────────────────────────────┘
 ```
 
-Mi perfil de GitHub funciona como un espacio donde puedo documentar mi progreso, compartir proyectos y demostrar cómo voy evolucionando como estudiante y futuro desarrollador.
+**Tecnologías:**
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css&theme=dark" />
 
 ---
 
-## 💡 Filosofía
+## 🎮 Proyectos en Java
 
-> **El código no tiene que ser perfecto desde el principio; tiene que mejorar con cada versión.**
+También he desarrollado diferentes ideas relacionadas con videojuegos y aplicaciones utilizando Java.
 
-Creo que la programación es un proceso constante de aprendizaje. Cada error ayuda a comprender mejor el problema y cada proyecto permite adquirir nuevas habilidades.
+### Algunos conceptos trabajados:
 
----
+* 🎮 Movimiento de personajes.
+* 💥 Colisiones.
+* 🧱 Rompe ladrillos.
+* 🚗 Juegos de vehículos.
+* ☄️ Obstáculos.
+* 🏆 Niveles.
+* ⚡ Eventos.
+* 🎨 Animaciones.
+* 🔊 Efectos y elementos interactivos.
 
-## 🤝 ¿Colaboramos?
-
-Estoy interesado en conocer personas que compartan el interés por la tecnología, programación y desarrollo de proyectos.
-
-Estoy abierto a:
-
-* 💻 Proyectos de software.
-* 🌐 Desarrollo web.
-* 🗃️ Proyectos con bases de datos.
-* 🎮 Desarrollo de videojuegos.
-* 📚 Proyectos educativos.
-* 🤝 Colaboraciones.
-* 🚀 Nuevas ideas tecnológicas.
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
 ---
 
-## 📫 Contacto
+# 🧩 Lo que estoy construyendo
 
-📧 **Correo:** [ag2900857@gmail.com](mailto:ag2900857@gmail.com)
-📍 **Ubicación:** Apopa, El Salvador
+Actualmente estoy trabajando para mejorar mis conocimientos en:
 
-Si quieres conocer mis proyectos, puedes explorar mis repositorios y seguir mi progreso como desarrollador.
+<div align="center">
+
+`PROGRAMACIÓN`
+
+⬇
+
+`LÓGICA`
+
+⬇
+
+`BASES DE DATOS`
+
+⬇
+
+`DESARROLLO WEB`
+
+⬇
+
+`PROYECTOS`
+
+⬇
+
+`EXPERIENCIA`
+
+⬇
+
+# 🚀 FUTURO PROFESIONAL
+
+</div>
 
 ---
 
-## ⚡ Un poco más sobre mí
+# 📊 GitHub Analytics
 
-Además de la programación, me interesa la **creación audiovisual, edición y tecnología**, áreas que me permiten combinar creatividad y conocimientos técnicos.
+<div align="center">
 
-Me gusta aprender haciendo, experimentar con nuevas herramientas y transformar ideas en proyectos reales.
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" width="49%" />
 
-### 🎯 Meta
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" />
 
-**Seguir creciendo, desarrollar mejores proyectos y convertir mi pasión por la tecnología en una carrera profesional.**
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF" width="70%" />
+
+</div>
 
 ---
 
-<p align="center">
+# 🏆 Mi actividad
 
-### 💙 Gracias por visitar mi perfil
+<div align="center">
 
-**Chris | Software Developer in Progress**
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
 
-`Code • Learn • Create • Improve`
+</div>
 
-</p>
+---
+
+# 🎯 Mis objetivos
+
+### 01 — Aprender
+
+Seguir estudiando nuevas tecnologías y fortalecer las bases que ya tengo.
+
+### 02 — Crear
+
+Convertir mis ideas en aplicaciones y proyectos funcionales.
+
+### 03 — Mejorar
+
+Analizar mis errores y buscar mejores formas de resolver problemas.
+
+### 04 — Colaborar
+
+Trabajar con otras personas y aprender de diferentes experiencias.
+
+### 05 — Crecer
+
+Construir una carrera profesional dentro del mundo de la tecnología.
+
+---
+
+# 💡 Mi forma de pensar
+
+```text
+        ┌──────────────┐
+        │    IDEA      │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   APRENDER   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   PRACTICAR  │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    ERROR     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   MEJORAR    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   PROYECTO   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   EXPERIENCIA│
+        └──────────────┘
+```
+
+---
+
+# 🖤 Más allá del código
+
+La programación es una de mis principales áreas de interés, pero también me gusta explorar el mundo de la **creación audiovisual, edición, fotografía y tecnología**.
+
+Me gusta combinar la parte técnica con la creatividad.
+
+Porque creo que una buena idea no solamente necesita código.
+
+### Necesita imaginación.
+
+### Necesita esfuerzo.
+
+### Necesita paciencia.
+
+### Y sobre todo, necesita alguien dispuesto a hacerla realidad.
+
+---
+
+# 🔥 ¿Por qué sigo aprendiendo?
+
+Porque cada línea de código que escribo hoy representa una oportunidad para estar más preparado mañana.
+
+Quizás todavía no tengo años de experiencia.
+
+Quizás todavía estoy descubriendo qué camino quiero seguir.
+
+Pero tengo algo que considero mucho más importante:
+
+## **Las ganas de aprender.**
+
+Cada proyecto, cada error, cada problema que logro solucionar y cada tecnología nueva que aprendo forman parte del camino que estoy construyendo.
+
+No quiero limitarme a decir que sé programar.
+
+### Quiero demostrarlo creando.
+
+---
+
+# 📫 Conecta conmigo
+
+<div align="center">
+
+<a href="mailto:ag2900857@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📍 **Apopa, El Salvador**
+
+📧 **[ag2900857@gmail.com](mailto:ag2900857@gmail.com)**
+
+🎓 **Instituto Nacional de Apopa — INA**
+
+</div>
+
+---
+
+# 🌌 Mi meta
+
+<div align="center">
+
+### 🖤 No quiero que mi GitHub solamente muestre código.
+
+### Quiero que muestre mi evolución.
+
+<br>
+
+**Que cada repositorio cuente una historia.**
+
+**Que cada proyecto demuestre una parte de mi aprendizaje.**
+
+**Y que algún día, al mirar hacia atrás, pueda ver todo lo que logré construir.**
+
+<br>
+
+### 🚀 Este es solamente el comienzo.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Growing.;The+best+is+yet+to+come." />
+
+<br><br>
+
+### `CODE` ⚡ `CREATE` ⚡ `DREAM` ⚡ `BUILD`
+
+</div>
+
+---
+
+<div align="center">
+
+**🖤 Gracias por visitar mi perfil.**
+
+*Si llegaste hasta aquí, gracias por conocer un poco de mi historia.*
+
+**— Chris**
+
+</div>
