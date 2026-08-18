@@ -1,429 +1,303 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    HEADER / PRESENTACIÓN                    -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# 🖤 ¡Hola, soy Chris!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:00D9FF&height=220&section=header&text=Chris&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Progress&descAlignY=58&descSize=20" width="100%"/>
 
-### 💻 Software Developer in Progress
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Desarrollo+de+Software;Apasionado+por+la+tecnología;Construyendo+ideas+a+través+del+código;Aprendiendo+algo+nuevo+cada+día" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Desarrollo+de+Software;Construyendo+ideas+a+trav%C3%A9s+del+c%C3%B3digo;Aprendiendo+nuevas+tecnolog%C3%ADas;Creando+proyectos+con+prop%C3%B3sito" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS%20AL%20PERFIL&color=00d9ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-<div align="center">
-
-### ⚡ `CODE` • `CREATE` • `LEARN` • `IMPROVE`
-
-</div>
-
----
-
-# 🧑‍💻 Sobre mí
-
-> **No estoy aquí solamente para aprender a programar. Estoy aquí para construir algo que algún día pueda mirar atrás y decir: "todo el esfuerzo valió la pena".**
+# Sobre mí
 
 Soy **Chris**, estudiante de **3.er año de Bachillerato Técnico Vocacional en Desarrollo de Software** en el **Instituto Nacional de Apopa (INA)**.
 
-Me apasiona la tecnología, la programación y la creación de proyectos. Actualmente estoy construyendo mis conocimientos en diferentes áreas del desarrollo de software, aprendiendo no solamente a escribir código, sino también a **pensar, analizar problemas y convertir ideas en soluciones**.
+Me apasiona la tecnología y el desarrollo de software. Actualmente estoy fortaleciendo mis conocimientos en programación, desarrollo web, bases de datos y creación de proyectos.
 
-Cada proyecto que aparece en este perfil representa una parte de mi aprendizaje. Algunos comenzaron con errores, otros con dudas y muchos con horas de trabajo, pero todos tienen algo en común:
+Me gusta aprender mediante la práctica: crear un proyecto, encontrar problemas, buscar soluciones y mejorar el resultado.
 
-### 🚀 **Me ayudaron a crecer.**
+Mi objetivo es convertir todo ese aprendizaje en experiencia profesional y continuar creciendo dentro del mundo de la tecnología.
 
----
-
-# 🖤 Mi historia
-
-Comencé aprendiendo los fundamentos de la programación y poco a poco fui descubriendo todo lo que se puede construir utilizando tecnología.
-
-He trabajado con páginas web, bases de datos, aplicaciones, proyectos académicos, videojuegos y diferentes herramientas de desarrollo.
-
-Todavía estoy aprendiendo.
-
-Todavía cometo errores.
-
-Todavía hay tecnologías que no conozco.
-
-**Y precisamente por eso sigo avanzando.**
-
-Porque para mí, ser desarrollador no significa saberlo todo.
-
-Significa tener la capacidad de decir:
-
-> **"No sé cómo hacerlo todavía, pero voy a aprender."**
+> **"No necesito saberlo todo para comenzar. Necesito comenzar para aprenderlo todo."**
 
 ---
 
-# 🧠 ¿Qué me apasiona?
+# Perfil
 
 <div align="center">
 
-|  💻 Programación |   🌐 Desarrollo Web  |   🗄️ Bases de Datos  |
-| :--------------: | :------------------: | :-------------------: |
-| Crear soluciones | Diseñar experiencias | Organizar información |
-
-|   🎮 Videojuegos   | 🎥 Tecnología Audiovisual |         🚀 Proyectos        |
-| :----------------: | :-----------------------: | :-------------------------: |
-| Crear experiencias |    Combinar creatividad   | Convertir ideas en realidad |
+|                    |                                                           |
+| ------------------ | --------------------------------------------------------- |
+| **Formación**      | Bachillerato Técnico Vocacional en Desarrollo de Software |
+| **Institución**    | Instituto Nacional de Apopa — INA                         |
+| **Enfoque**        | Desarrollo de software y desarrollo web                   |
+| **Bases de datos** | MySQL / PostgreSQL                                        |
+| **Herramientas**   | Git, GitHub, VS Code                                      |
+| **Ubicación**      | Apopa, El Salvador                                        |
 
 </div>
 
 ---
 
-# 🛠️ Tecnologías que estoy aprendiendo
+# Tecnologías
 
 <div align="center">
 
-### 💻 Lenguajes
+### Lenguajes
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cs,php&theme=dark" />
 
 <br><br>
 
-### 🗃️ Bases de datos
+### Bases de datos
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
 <br><br>
 
-### 🔧 Herramientas
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
-
-<br><br>
-
-### 🎨 Diseño y creatividad
-
-<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
 
 </div>
 
 ---
 
-# 📚 Mis conocimientos
+# Habilidades
 
-### 🌐 Desarrollo Web
+### Desarrollo Web
 
-```text
-HTML5       ███████████████████░░   85%
-CSS3        █████████████████░░░░   80%
-JavaScript  ███████████████░░░░░░   70%
-PHP         █████████████░░░░░░░░   65%
-```
+Trabajo en la creación de páginas y sistemas web utilizando:
 
-### 🐍 Programación
+* HTML5 para estructurar contenido.
+* CSS3 para diseño y presentación.
+* JavaScript para interacción.
+* PHP para desarrollo del lado del servidor.
+* MySQL para almacenamiento y gestión de información.
 
-```text
-Python      ███████████████░░░░░░   70%
-Java        ██████████████░░░░░░░   65%
-C#          ████████████░░░░░░░░░   60%
-```
+### Programación
 
-### 🗄️ Bases de datos
+He trabajado con diferentes lenguajes y conceptos de programación, especialmente en:
 
-```text
-MySQL       ████████████████░░░░░   75%
-SQL         ████████████████░░░░░   75%
-PostgreSQL  ████████████░░░░░░░░░   60%
-```
+* Lógica de programación.
+* Programación orientada a objetos.
+* Estructuras de datos.
+* Condicionales y ciclos.
+* Funciones.
+* Manejo de eventos.
+* Organización de proyectos.
 
-> *Estas barras representan mi nivel de práctica y aprendizaje actual, no certificaciones profesionales.*
+### Bases de datos
+
+Tengo conocimientos básicos en:
+
+* Diseño de bases de datos relacionales.
+* Creación de tablas.
+* Relaciones entre tablas.
+* Claves primarias y foráneas.
+* Consultas SQL.
+* Inserción, actualización y eliminación de registros.
+* Sistemas CRUD.
 
 ---
 
-# 🚀 Proyectos
+# Proyectos
 
-## 🌌 Explorando el Sistema Solar
+## Explorando el Sistema Solar
 
-Proyecto educativo desarrollado utilizando tecnologías web.
+Proyecto web educativo desarrollado para presentar información sobre los planetas del Sistema Solar.
 
-### Características
-
-* 🌎 Información sobre los planetas.
-* 🪐 Tabla informativa.
-* 🧠 Quiz interactivo.
-* 💻 Diseño web.
-* 🎨 Interfaz visual.
-* ⚡ JavaScript para interacción.
-
-**Tecnologías:**
+**Tecnologías utilizadas:**
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
+Incluye información de los planetas, tablas informativas y un cuestionario interactivo.
+
 ---
 
-## 🛒 Sistemas de Gestión
+## Sistemas de gestión
 
-He desarrollado diferentes estructuras para sistemas administrativos y comerciales.
+He desarrollado estructuras para sistemas administrativos y comerciales utilizando bases de datos.
 
-### Módulos trabajados
+Entre los módulos trabajados se encuentran:
 
 ```text
-┌───────────────────────────────┐
-│       SISTEMA DE GESTIÓN      │
-├───────────────────────────────┤
-│ 👤 Usuarios                   │
-│ 📦 Productos                  │
-│ 🏷️ Categorías                 │
-│ 🚚 Proveedores                │
-│ 👨‍💼 Empleados                 │
-│ 🛍️ Clientes                   │
-│ 💰 Ventas                     │
-│ 🧾 Detalle de ventas          │
-│ 📥 Compras                    │
-│ 📊 Inventario                 │
-└───────────────────────────────┘
+Usuarios
+Productos
+Categorías
+Proveedores
+Clientes
+Empleados
+Ventas
+Detalle de ventas
+Compras
+Inventario
 ```
 
-**Tecnologías:**
+**Tecnologías utilizadas:**
 
 <img src="https://skillicons.dev/icons?i=php,mysql,html,css&theme=dark" />
 
 ---
 
-## 🎮 Proyectos en Java
+## Proyectos en Java
 
-También he desarrollado diferentes ideas relacionadas con videojuegos y aplicaciones utilizando Java.
+También he desarrollado proyectos utilizando Java, aplicando conceptos de programación orientada a objetos.
 
-### Algunos conceptos trabajados:
+Entre los proyectos y conceptos trabajados:
 
-* 🎮 Movimiento de personajes.
-* 💥 Colisiones.
-* 🧱 Rompe ladrillos.
-* 🚗 Juegos de vehículos.
-* ☄️ Obstáculos.
-* 🏆 Niveles.
-* ⚡ Eventos.
-* 🎨 Animaciones.
-* 🔊 Efectos y elementos interactivos.
+```text
+Videojuegos
+Movimiento
+Colisiones
+Niveles
+Obstáculos
+Eventos
+Animaciones
+Lógica de juego
+```
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
 ---
 
-# 🧩 Lo que estoy construyendo
-
-Actualmente estoy trabajando para mejorar mis conocimientos en:
+# Actualmente aprendiendo
 
 <div align="center">
 
-`PROGRAMACIÓN`
-
-⬇
-
-`LÓGICA`
-
-⬇
-
-`BASES DE DATOS`
-
-⬇
-
-`DESARROLLO WEB`
-
-⬇
-
-`PROYECTOS`
-
-⬇
-
-`EXPERIENCIA`
-
-⬇
-
-# 🚀 FUTURO PROFESIONAL
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,php,js,mysql,git,github&theme=dark" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF" width="70%" />
+**Programación · Desarrollo Web · Bases de Datos · Git · Arquitectura de Software**
 
 </div>
 
 ---
 
-# 🏆 Mi actividad
+# GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=00D9FF&icon_color=8A2BE2&text_color=FFFFFF&border_radius=15" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=FFFFFF&border_radius=15" width="48%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=TU_USUARIO&hide_border=true&background=000000&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=777777" width="70%" />
 
 </div>
 
 ---
 
-# 🎯 Mis objetivos
+# GitHub Trophies
 
-### 01 — Aprender
+<div align="center">
 
-Seguir estudiando nuevas tecnologías y fortalecer las bases que ya tengo.
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%" />
 
-### 02 — Crear
-
-Convertir mis ideas en aplicaciones y proyectos funcionales.
-
-### 03 — Mejorar
-
-Analizar mis errores y buscar mejores formas de resolver problemas.
-
-### 04 — Colaborar
-
-Trabajar con otras personas y aprender de diferentes experiencias.
-
-### 05 — Crecer
-
-Construir una carrera profesional dentro del mundo de la tecnología.
+</div>
 
 ---
 
-# 💡 Mi forma de pensar
+# Mi proceso
 
-```text
-        ┌──────────────┐
-        │    IDEA      │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   APRENDER   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   PRACTICAR  │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    ERROR     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   MEJORAR    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   PROYECTO   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   EXPERIENCIA│
-        └──────────────┘
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&text=LEARN%20%E2%86%92%20PRACTICE%20%E2%86%92%20CREATE%20%E2%86%92%20IMPROVE&fontSize=22&fontColor=00D9FF" width="100%"/>
+
+</div>
+
+Aprender programación no ha sido solamente aprender lenguajes.
+
+Ha significado aprender a pensar de otra manera, analizar problemas, buscar soluciones y entender que equivocarse también forma parte del proceso.
+
+Cada proyecto me permite descubrir algo nuevo y mejorar lo que ya sé.
 
 ---
 
-# 🖤 Más allá del código
+# Objetivos
 
-La programación es una de mis principales áreas de interés, pero también me gusta explorar el mundo de la **creación audiovisual, edición, fotografía y tecnología**.
+**01 — Fortalecer mis conocimientos**
 
-Me gusta combinar la parte técnica con la creatividad.
+Continuar mejorando mis fundamentos de programación, bases de datos y desarrollo web.
 
-Porque creo que una buena idea no solamente necesita código.
+**02 — Crear proyectos más completos**
 
-### Necesita imaginación.
+Pasar de proyectos académicos a aplicaciones más estructuradas y profesionales.
 
-### Necesita esfuerzo.
+**03 — Aprender nuevas tecnologías**
 
-### Necesita paciencia.
+Explorar nuevas herramientas, frameworks y tecnologías relacionadas con el desarrollo.
 
-### Y sobre todo, necesita alguien dispuesto a hacerla realidad.
+**04 — Obtener experiencia**
 
----
+Aplicar mis conocimientos en proyectos reales y adquirir experiencia profesional.
 
-# 🔥 ¿Por qué sigo aprendiendo?
+**05 — Seguir creciendo**
 
-Porque cada línea de código que escribo hoy representa una oportunidad para estar más preparado mañana.
-
-Quizás todavía no tengo años de experiencia.
-
-Quizás todavía estoy descubriendo qué camino quiero seguir.
-
-Pero tengo algo que considero mucho más importante:
-
-## **Las ganas de aprender.**
-
-Cada proyecto, cada error, cada problema que logro solucionar y cada tecnología nueva que aprendo forman parte del camino que estoy construyendo.
-
-No quiero limitarme a decir que sé programar.
-
-### Quiero demostrarlo creando.
+Construir una carrera dentro del área tecnológica y continuar aprendiendo constantemente.
 
 ---
 
-# 📫 Conecta conmigo
+# Más allá del código
+
+Además del desarrollo de software, también me interesa la **producción audiovisual, fotografía, edición y tecnología**.
+
+Esta combinación me permite trabajar tanto la parte lógica como la creativa.
+
+Para mí, la tecnología no consiste únicamente en escribir código.
+
+Consiste en utilizar las herramientas disponibles para **crear algo que antes solamente existía como una idea**.
+
+---
+
+# Una pequeña reflexión
+
+Cuando comencé a aprender programación, muchas cosas parecían complicadas.
+
+Errores que no entendía.
+
+Código que no funcionaba.
+
+Proyectos que tenían que empezar nuevamente.
+
+Pero cada problema terminó enseñándome algo.
+
+Hoy todavía estoy aprendiendo y sé que me queda muchísimo camino por recorrer.
+
+Pero precisamente eso es lo que hace interesante este proceso.
+
+> **Cada línea de código que escribo hoy forma parte del desarrollador que quiero ser mañana.**
+
+No busco demostrar que lo sé todo.
+
+Busco demostrar que **puedo aprender, mejorar y seguir adelante**.
+
+---
+
+# Contacto
 
 <div align="center">
 
 <a href="mailto:ag2900857@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" />
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
 </a>
 
 <a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-📍 **Apopa, El Salvador**
-
-📧 **[ag2900857@gmail.com](mailto:ag2900857@gmail.com)**
-
-🎓 **Instituto Nacional de Apopa — INA**
-
-</div>
-
----
-
-# 🌌 Mi meta
-
-<div align="center">
-
-### 🖤 No quiero que mi GitHub solamente muestre código.
-
-### Quiero que muestre mi evolución.
-
-<br>
-
-**Que cada repositorio cuente una historia.**
-
-**Que cada proyecto demuestre una parte de mi aprendizaje.**
-
-**Y que algún día, al mirar hacia atrás, pueda ver todo lo que logré construir.**
-
-<br>
-
-### 🚀 Este es solamente el comienzo.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Growing.;The+best+is+yet+to+come." />
 
 <br><br>
 
-### `CODE` ⚡ `CREATE` ⚡ `DREAM` ⚡ `BUILD`
+**[ag2900857@gmail.com](mailto:ag2900857@gmail.com)**
+
+**Apopa, El Salvador**
 
 </div>
 
@@ -431,10 +305,12 @@ No quiero limitarme a decir que sé programar.
 
 <div align="center">
 
-**🖤 Gracias por visitar mi perfil.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0D1B2A,100:000000&height=130&section=footer" width="100%"/>
 
-*Si llegaste hasta aquí, gracias por conocer un poco de mi historia.*
+### Gracias por visitar mi perfil.
 
-**— Chris**
+**Chris — Software Developer in Progress**
+
+`Code • Learn • Create • Improve`
 
 </div>
